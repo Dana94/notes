@@ -2,7 +2,8 @@
 
 * [Initial page](README.md)
 * [Blender](blender/README.md)
-  * [Modifiers](blender/modifiers.md)
+  * [Modifiers](blender/modifiers/README.md)
+    * [Array](blender/modifiers/array.md)
 * [Inkscape](inkscape/README.md)
   * [Layers](inkscape/layers.md)
   * [Masking](inkscape/masking.md)
