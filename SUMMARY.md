@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 * [Blender](blender/README.md)
+  * [Materials](blender/materials.md)
   * [Modifiers](blender/modifiers/README.md)
     * [Array](blender/modifiers/array.md)
 * [Inkscape](inkscape/README.md)
