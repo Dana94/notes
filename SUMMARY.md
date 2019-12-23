@@ -2,6 +2,8 @@
 
 * [Initial page](README.md)
 * [Blender](blender/README.md)
+  * [Collections](blender/collections.md)
+  * [Shortcuts](blender/shortcuts.md)
   * [Materials](blender/materials.md)
   * [Modifiers](blender/modifiers/README.md)
     * [Array](blender/modifiers/array.md)
