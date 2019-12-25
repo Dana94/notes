@@ -2,6 +2,8 @@
 
 * [Initial page](README.md)
 * [Blender](blender/README.md)
+  * [Animating](blender/animating.md)
+  * [Camera](blender/camera.md)
   * [Collections](blender/collections.md)
   * [Shortcuts](blender/shortcuts.md)
   * [Materials](blender/materials.md)
