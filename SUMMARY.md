@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 * [Blender](blender/README.md)
+  * [Node Editor](blender/node-editor.md)
   * [Animating](blender/animating.md)
   * [Camera](blender/camera.md)
   * [Collections](blender/collections.md)
