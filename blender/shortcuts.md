@@ -48,3 +48,7 @@ e and q?
 
 Unwrap mesh in edit mode.
 
+## Right click &gt; Shade Smooth
+
+Smooths mesh object.
+
