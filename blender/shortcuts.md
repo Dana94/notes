@@ -44,3 +44,7 @@ Use the w, s, a, d keys or the up, left, right, down arrows to move the camera.
 
 e and q?
 
+## U
+
+Unwrap mesh in edit mode.
+
