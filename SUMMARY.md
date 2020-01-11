@@ -2,8 +2,8 @@
 
 * [Initial page](README.md)
 * [Blender](blender/README.md)
-  * [Tools](blender/tools.md)
-  * [Poke Tool](blender/poke-tool.md)
+  * [Tools](blender/tools/README.md)
+    * [Poke Tool](blender/tools/poke-tool.md)
   * [Texture Painting](blender/texture-painting.md)
   * [UV Editing](blender/uv-editing.md)
   * [Node Editor](blender/node-editor.md)
