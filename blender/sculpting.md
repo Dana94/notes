@@ -12,12 +12,19 @@ F - changes the size of the brush - also can adjust the radius in the toolbar.
 
 Ctrl - will give the opposite effect the brush would normally do. For example, the blob brush can add or subtract. By default, it adds. Holding down ctrl will activate subtract. The opposite affect can also be activated in the toolbar.
 
+Shift + F - changes strength
+
+Ctrl + i - inverts mask selection
+
+Alt + m - clear mask selection
+
 ### Brushes
 
 * Grab - Click anywhere on the object and while holding down, move the mouse to drag a piece of the object. The change is subtle.
 * Snake Hook - This is a stronger "grab" tool. 
 * Blob - Make a circular motion with the cursor while holding down n a part of the mesh and you'll see the surface "blow up". This can make spherical indents in the mesh.
 * Draw - Drag the cursor back and forth as if you're drawing. The object will be pulled in the direction the cursor is going.
+* Scrape - set to original: normal and original: plane
 
 
 
