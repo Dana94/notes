@@ -25,6 +25,8 @@ Alt + m - clear mask selection
 * Blob - Make a circular motion with the cursor while holding down n a part of the mesh and you'll see the surface "blow up". This can make spherical indents in the mesh.
 * Draw - Drag the cursor back and forth as if you're drawing. The object will be pulled in the direction the cursor is going.
 * Scrape - set to original: normal and original: plane
+* Mask - borders off selections that won't be affected by sculpting \(A key to get more options\)
+  * Shift + R to repeat last mask brush you used
 
 
 
