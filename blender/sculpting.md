@@ -18,6 +18,8 @@ Ctrl + i - inverts mask selection
 
 Alt + m - clear mask selection
 
+Sculpt &gt; set pivot &gt; pivot to mask border for posing \(like limbs\)
+
 ### Brushes
 
 * Grab - Click anywhere on the object and while holding down, move the mouse to drag a piece of the object. The change is subtle.
@@ -27,6 +29,7 @@ Alt + m - clear mask selection
 * Scrape - set to original: normal and original: plane
 * Mask - borders off selections that won't be affected by sculpting \(A key to get more options\)
   * Shift + R to repeat last mask brush you used
+  * Shift + Ctrl + left click for lasso tool
 
 
 
