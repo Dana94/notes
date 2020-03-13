@@ -2,7 +2,8 @@
 
 * [Initial page](README.md)
 * [Blender](blender/README.md)
-  * [Sculpting](blender/sculpting.md)
+  * [Sculpting](blender/sculpting/README.md)
+    * [Draw Brush](blender/sculpting/draw-brush.md)
   * [Tools](blender/tools/README.md)
     * [Poke Tool](blender/tools/poke-tool.md)
   * [Texture Painting](blender/texture-painting.md)
