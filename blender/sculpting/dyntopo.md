@@ -22,6 +22,11 @@ The topology won't stretch and it is generated on the fly.
 
 Detail size: the more finer the detail, the higher the pixel size.
 
+Refine Method:
+
+* Subdefine collapse: will create new topology regardless of underlying topology
+* Subdefine edges: 
+
 Detailing: detail size is directly related to this.
 
 * Constant - related to resolution. \(in blender units - the squares on the grid floor\)
