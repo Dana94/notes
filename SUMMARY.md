@@ -3,6 +3,7 @@
 * [Initial page](README.md)
 * [Blender](blender/README.md)
   * [Sculpting](blender/sculpting/README.md)
+    * [Dyntopo](blender/sculpting/dyntopo.md)
     * [Draw Brush](blender/sculpting/draw-brush.md)
   * [Tools](blender/tools/README.md)
     * [Poke Tool](blender/tools/poke-tool.md)
