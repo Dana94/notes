@@ -12,7 +12,7 @@ If the cursor has been moved, hit Shift + s to move the cursor to the center.
 
 Then add a mesh object with Shift + a.
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 Then use Shift + a to add an empty &gt; plain axis.
 
@@ -41,7 +41,7 @@ In the Array modifier, change these settings:
 * Select Constant Offset
 * Select axis for Object Offset \(either with the eye dropper tool or the drop-down\)
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 You may see the object multiply while you adjust the settings, then disappear. That's normal! The object clones are all there, they're just in the same spot as the first object.
 
@@ -106,7 +106,7 @@ I created the bottom image by sizing the axis using s and moving the cursor.
 
 Now all of the objects are their original size again.
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 
 

@@ -30,15 +30,15 @@ You should see a red line on what you marked as a seam.
 
 Now select the whole mesh again, then hit **u &gt; Unwrap** to see a new unwrap show in the left panel.
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 Well that looks different! When you mark a seam, it indicates where the program should "cut" along in order to create a different unwrapping.
 
 Here's an explanation showing where the scissors would be cutting the mesh and how the sides would flip in order to produce the new UV layout.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 
 

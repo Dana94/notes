@@ -27,6 +27,7 @@ Sculpt &gt; set pivot &gt; pivot to mask border for posing \(like limbs\)
 * Blob - Make a circular motion with the cursor while holding down n a part of the mesh and you'll see the surface "blow up". This can make spherical indents in the mesh.
 * Draw - Drag the cursor back and forth as if you're drawing. The object will be pulled in the direction the cursor is going.
 * Scrape - set to original: normal and original: plane
+* Simplify - turn dyntopo on with constant detail selected and decrease the resolution. Using the brush will minimize the mesh on where the brush is used
 * Mask - borders off selections that won't be affected by sculpting \(A key to get more options\)
   * Shift + R to repeat last mask brush you used
   * Shift + Ctrl + left click for lasso tool
