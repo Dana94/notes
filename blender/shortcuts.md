@@ -52,3 +52,7 @@ Unwrap mesh in edit mode.
 
 Smooths mesh object.
 
+## Ctrl + b
+
+Bevel selected area. Increase faces by moving the middle mouse button up and down.
+
