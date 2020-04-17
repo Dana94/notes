@@ -22,7 +22,7 @@ Hit **a** twice to deselect the mesh, then hit **shift + alt while selecting** t
 
 Ctrl + E &gt; Mark Seam to create a seam on the selected line.
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 You should see a red line on what you marked as a seam.
 
@@ -30,15 +30,15 @@ You should see a red line on what you marked as a seam.
 
 Now select the whole mesh again, then hit **u &gt; Unwrap** to see a new unwrap show in the left panel.
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 Well that looks different! When you mark a seam, it indicates where the program should "cut" along in order to create a different unwrapping.
 
 Here's an explanation showing where the scissors would be cutting the mesh and how the sides would flip in order to produce the new UV layout.
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 
 

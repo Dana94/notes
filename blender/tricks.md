@@ -20,5 +20,13 @@ Selecting the circle object \(not the circle curve around the cylinder\) assign 
 
 Select **BezierCircle** as its curve.
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
+
+I'm not sure the best way to explain this next part, but in edit mode the circle object needs to be moved around until it aligns with the circle curve and wraps itself around it. In the image below I extruded the sides more and raised the center so it would be seen on the cylinder as the circle curve causes the front face to curve in a bit.
+
+![](../.gitbook/assets/image%20%2834%29.png)
+
+Wiht the culinder showing:
+
+![](../.gitbook/assets/image%20%2824%29.png)
 
