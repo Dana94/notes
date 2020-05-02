@@ -6,11 +6,11 @@ description: Dynamic topology
 
 Check box in top right of sculpting window.
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 If you get an error when turning dyntopo on, remove the mesh object automatically created for you when adding a new object.
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 The topology won't stretch and it is generated on the fly.
 
@@ -18,7 +18,7 @@ The topology won't stretch and it is generated on the fly.
 
 ### Settings
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 Detail size: the more finer the detail, the higher the pixel size.
 

@@ -5,6 +5,7 @@
   * [Tricks](blender/tricks-1/README.md)
     * [Wrapping Mesh around Circle Curve](blender/tricks-1/tricks.md)
   * [Sculpting](blender/sculpting/README.md)
+    * [Mesh Filter](blender/sculpting/mesh-filter.md)
     * [Dyntopo](blender/sculpting/dyntopo.md)
     * [Draw Brush](blender/sculpting/draw-brush.md)
   * [Tools](blender/tools/README.md)
