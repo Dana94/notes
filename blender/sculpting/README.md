@@ -24,6 +24,8 @@ Sculpt &gt; set pivot &gt; pivot to mask border for posing \(like limbs\)
 
 Duplicate an object. In the second object's options \(bottom left corner\), hit **linked checkbox** so both meshes will have the same changes done to each other.
 
+When overlapping 2 objects in object mode, hit Ctrl + J and in sculpt mode they will be merged together.
+
 ### Brushes
 
 * Grab - Click anywhere on the object and while holding down, move the mouse to drag a piece of the object. The change is subtle.
