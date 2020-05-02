@@ -20,6 +20,10 @@ Alt + m - clear mask selection
 
 Sculpt &gt; set pivot &gt; pivot to mask border for posing \(like limbs\)
 
+
+
+Duplicate an object. In the second object's options \(bottom left corner\), hit **linked checkbox** so both meshes will have the same changes done to each other.
+
 ### Brushes
 
 * Grab - Click anywhere on the object and while holding down, move the mouse to drag a piece of the object. The change is subtle.
