@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 * [Blender](blender/README.md)
+  * [Random...](blender/random....md)
   * [Tricks](blender/tricks-1/README.md)
     * [Wrapping Mesh around Circle Curve](blender/tricks-1/tricks.md)
   * [Sculpting](blender/sculpting/README.md)
