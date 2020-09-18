@@ -1,8 +1,4 @@
----
-description: Bi-directional Scattering Distribution Function
----
-
-# BSDF
+# General
 
 A set of instructions to tell render engine what to do with the light when it hits the surface.
 
