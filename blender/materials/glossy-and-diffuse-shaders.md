@@ -12,6 +12,8 @@ Multiscatter GGX - takes into account the light bouncing out after bouncing arou
 
 **Ctrl + B** to select a part to render in viewport
 
+**Ctrl + Alt + B** to undo it
+
 ### Diffuse Shader
 
 Glossy shader with roughness of 1.0 = diffuse shader
