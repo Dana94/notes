@@ -14,3 +14,13 @@ Multiscatter GGX - takes into account the light bouncing out after bouncing arou
 
 ### Diffuse Shader
 
+Glossy shader with roughness of 1.0 = diffuse shader
+
+Increase roughness removes the shine in the edges \(frenal\)
+
+
+
+Node Wrangler add-on is activated.
+
+**Ctrl + shift** to click on a node and have it immediately connected to the material output.
+
