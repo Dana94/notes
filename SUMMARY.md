@@ -24,6 +24,7 @@
     * [BSDF](blender/materials/bsdf-1.md)
     * [Node Editor](blender/materials/node-editor.md)
     * [Glossy and Diffuse Shaders](blender/materials/glossy-and-diffuse-shaders.md)
+    * [Mix and Add Shaders](blender/materials/mix-and-add-shaders.md)
   * [Modifiers](blender/modifiers/README.md)
     * [Array](blender/modifiers/array.md)
 * [Inkscape](inkscape/README.md)
