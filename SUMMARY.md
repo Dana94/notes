@@ -26,6 +26,7 @@
     * [Glossy and Diffuse Shaders](blender/materials/glossy-and-diffuse-shaders.md)
     * [Mix and Add Shaders](blender/materials/mix-and-add-shaders.md)
     * [The Anisotropic Shader](blender/materials/the-anisotropic-shader.md)
+    * [The Transparent and Holdout Shaders](blender/materials/the-transparent-and-holdout-shaders.md)
   * [Modifiers](blender/modifiers/README.md)
     * [Array](blender/modifiers/array.md)
 * [Inkscape](inkscape/README.md)
