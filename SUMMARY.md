@@ -27,6 +27,8 @@
     * [Mix and Add Shaders](blender/materials/mix-and-add-shaders.md)
     * [The Anisotropic Shader](blender/materials/the-anisotropic-shader.md)
     * [The Transparent and Holdout Shaders](blender/materials/the-transparent-and-holdout-shaders.md)
+    * [The Refraction and Glass Shaders](blender/materials/the-refraction-and-glass-shaders.md)
+    * [The Translucent Shader](blender/materials/the-translucent-shader.md)
   * [Modifiers](blender/modifiers/README.md)
     * [Array](blender/modifiers/array.md)
 * [Inkscape](inkscape/README.md)
