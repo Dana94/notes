@@ -30,6 +30,7 @@
     * [The Refraction and Glass Shaders](blender/materials/the-refraction-and-glass-shaders.md)
     * [The Translucent Shader](blender/materials/the-translucent-shader.md)
     * [The Subsurface Scattering Shader](blender/materials/the-subsurface-scattering-shader.md)
+    * [The Absorption and Scattering Volume Shaders](blender/materials/the-absorption-and-scattering-volume-shaders.md)
   * [Modifiers](blender/modifiers/README.md)
     * [Array](blender/modifiers/array.md)
 * [Inkscape](inkscape/README.md)
