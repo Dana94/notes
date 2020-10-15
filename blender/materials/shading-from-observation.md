@@ -13,5 +13,17 @@ When using mix shader, isolate one material at a time to make sure it's purpose 
 
 How much Glossy = How much saturation in the reflections.
 
+![](../../.gitbook/assets/image%20%2862%29.png)
+
+### Rubber Tire Material
+
+There is a light spread across the material. So only a Diffuse material isn't a good idea.
+
+Don't set Diffuse to pure black.
+
+Gives nice overall gradient of Diffuse with slightly sharper gradation.
+
 ![](../../.gitbook/assets/image%20%2861%29.png)
+
+
 
