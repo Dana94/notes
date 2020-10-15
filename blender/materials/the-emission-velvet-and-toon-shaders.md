@@ -8,13 +8,13 @@ Darker the emission value - the blacker it is.
 
 Can be used in both the surface and volume socket.
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 This would set density control.
 
 Used in holograms or fire effects.
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 ### Velvet
 
@@ -24,11 +24,11 @@ Sides facing towards the viewer are darkened.
 
 Used for cloth and for tiny fuzz texture.
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 Prefer not t use by itself. Can be used for a dual-tone affect.
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
 ### Toon
 
