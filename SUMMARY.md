@@ -32,6 +32,7 @@
     * [The Subsurface Scattering Shader](blender/materials/the-subsurface-scattering-shader.md)
     * [The Absorption and Scattering Volume Shaders](blender/materials/the-absorption-and-scattering-volume-shaders.md)
     * [The Emission, Velvet, and Toon Shaders](blender/materials/the-emission-velvet-and-toon-shaders.md)
+    * [Shading From Observation](blender/materials/shading-from-observation.md)
   * [Modifiers](blender/modifiers/README.md)
     * [Array](blender/modifiers/array.md)
 * [Inkscape](inkscape/README.md)
