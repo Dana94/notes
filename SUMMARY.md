@@ -33,6 +33,7 @@
     * [The Absorption and Scattering Volume Shaders](blender/materials/the-absorption-and-scattering-volume-shaders.md)
     * [The Emission, Velvet, and Toon Shaders](blender/materials/the-emission-velvet-and-toon-shaders.md)
     * [Shading From Observation](blender/materials/shading-from-observation.md)
+  * [Textures](blender/textures.md)
   * [Modifiers](blender/modifiers/README.md)
     * [Array](blender/modifiers/array.md)
 * [Inkscape](inkscape/README.md)
