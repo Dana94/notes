@@ -13,7 +13,7 @@ When using mix shader, isolate one material at a time to make sure it's purpose 
 
 How much Glossy = How much saturation in the reflections.
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 ### Rubber Tire Material
 
@@ -25,7 +25,7 @@ Don't set Diffuse to pure black.
 
 Gives nice overall gradient of Diffuse with slightly sharper gradation.
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
 ### Leather Jacket Material
 
@@ -41,5 +41,5 @@ Velvet for cloth.
 
 Translucent for some light shining through the material.
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
