@@ -9,5 +9,5 @@ You can drag and drop the image texture file into the node editor to automatical
 
 The Image Texture can be changed to "Image Sequence".
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 

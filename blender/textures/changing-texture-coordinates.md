@@ -12,7 +12,7 @@ Increase "Blend" to blur the edges.
 
 "Tube" for cylinders.
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
 * **Object:** Takes the objects location and scales into account as the mesh gets bigger without distorting the texture.
 * **Camera**: Points everything towards the camera. \(Set Image Texture to "flat"\).
@@ -27,5 +27,5 @@ Tip: Click on value slot and hold down to select others below so their values wi
 
 Good for easily repeatable patterns \(dirt, grass\).
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
