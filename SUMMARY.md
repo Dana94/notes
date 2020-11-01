@@ -39,6 +39,7 @@
     * [Blend Modes and Basic Color Math](blender/textures/blend-modes-and-basic-color-math.md)
     * [Manipulating Normals](blender/textures/manipulating-normals.md)
     * [Using Normal Maps](blender/textures/using-normal-maps.md)
+    * [Displacement and Adaptive Subdivision](blender/textures/displacement-and-adaptive-subdivision.md)
   * [Modifiers](blender/modifiers/README.md)
     * [Array](blender/modifiers/array.md)
 * [Inkscape](inkscape/README.md)
