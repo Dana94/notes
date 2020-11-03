@@ -40,6 +40,7 @@
     * [Manipulating Normals](blender/textures/manipulating-normals.md)
     * [Using Normal Maps](blender/textures/using-normal-maps.md)
     * [Displacement and Adaptive Subdivision](blender/textures/displacement-and-adaptive-subdivision.md)
+  * [Intro to Physically Based Rendering \(PBR\)](blender/intro-to-physically-based-rendering-pbr.md)
   * [Modifiers](blender/modifiers/README.md)
     * [Array](blender/modifiers/array.md)
 * [Inkscape](inkscape/README.md)
