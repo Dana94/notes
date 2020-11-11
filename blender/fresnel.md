@@ -26,3 +26,9 @@ Decreasing the roughness in this example shows more/less fresnel.
 
 ![](../.gitbook/assets/image%20%2889%29.png)
 
+#### How Roughness Influences Fresnel
+
+Incoming value hides the light on the edges of the mesh.
+
+MixRBG node for mixing vectors.
+
