@@ -28,3 +28,7 @@
 
 **Emission**: Emit colored light with Specular to 0.
 
+Does not have translucency to allow light to pass straight through.
+
+![](../.gitbook/assets/image%20%2890%29.png)
+
