@@ -43,6 +43,7 @@
   * [Intro to Physically Based Rendering \(PBR\)](blender/intro-to-physically-based-rendering-pbr.md)
   * [Fresnel](blender/fresnel.md)
   * [The Principled Shader](blender/the-principled-shader.md)
+  * [The Principled Hair Shader](blender/the-principled-hair-shader.md)
   * [Modifiers](blender/modifiers/README.md)
     * [Array](blender/modifiers/array.md)
 * [Inkscape](inkscape/README.md)
