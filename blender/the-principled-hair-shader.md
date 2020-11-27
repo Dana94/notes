@@ -24,6 +24,10 @@ Mixed the Reflection and Transmission in a more physically accurate way \(based 
 
 **Melanin Concentration** gives realistic hair colors.
 
+Use the **ColorRamp** node to control the darker and lighter area of the hair color.
+
+![](../.gitbook/assets/image%20%2892%29.png)
+
 \*\*\*\*
 
 
