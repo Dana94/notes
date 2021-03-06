@@ -4,6 +4,7 @@
 * [Blender](blender/README.md)
   * [Random...](blender/random....md)
   * [Tricks](blender/tricks-1/README.md)
+    * [Bridge Edge Loops](blender/tricks-1/bridge-edge-loops.md)
     * [Adding an Image Texture over a base color](blender/tricks-1/adding-an-image-texture-over-a-base-color.md)
     * [Wrapping Mesh around Circle Curve](blender/tricks-1/tricks.md)
   * [Sculpting](blender/sculpting/README.md)
