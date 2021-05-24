@@ -2,7 +2,8 @@
 
 * [Initial page](README.md)
 * [Blender](blender/README.md)
-  * [Grease Pencil \(2D\)](blender/grease-pencil-2d.md)
+  * [Grease Pencil \(2D Animation\)](blender/grease-pencil-2d-animation/README.md)
+    * [How To Render](blender/grease-pencil-2d-animation/grease-pencil-2d.md)
   * [Random...](blender/random....md)
   * [Tricks](blender/tricks-1/README.md)
     * [Bridge Edge Loops](blender/tricks-1/bridge-edge-loops.md)
