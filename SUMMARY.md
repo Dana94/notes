@@ -4,7 +4,7 @@
 
 ## Animation
 
-* [Untitled](animation/untitled.md)
+* [12 Principles of Animation](animation/untitled.md)
 
 ## Blender <a id="blender-1"></a>
 
