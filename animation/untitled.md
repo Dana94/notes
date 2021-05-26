@@ -22,9 +22,16 @@ description: Notes on a YouTube video lesson.
 
 4. **Straight Ahead & Pose to Pose** Ways to animate frames. Straight Ahead: draw the next immediate pose after the first one. Good for unpredictable animation like fire or water. Pose to Pose is when the first and last frame are drawn and you keep dividing the timeline until all the frames are done. Generally better for control for most actions or knowing how to draw the hair or clothes for a character after the body poses are done.  first poses: **keys** second poses: **extremes** further down poses that connect extremes to keys: **breakdowns** 
 5. **Follow Through & Overlapping Action \(Drag\)** **Follow Through**: Parts of body continue to move after body has stopped. **Overlapping Action**: Offset between tie of main body and its other parts. **Drag**: technique of delaying overlapping action with its other parts. When a body moves, the tip of the appendage should be the last things to catch up. When the body stops, the tip should follow through the farthest before moving back. This can also emphasize the object's mass. 
-6. **Slow In & Slow Out** How all movement builds up slowly and finishes slowly with the in-between action being fast. With the first and last extreme pose drawn, draw the middle frame, then divide the intervals in-between the ends closest to the extremes.
+6. **Slow In & Slow Out**  
+   How all movement builds up slowly and finishes slowly with the in-between action being fast.  
+   With the first and last extreme pose drawn, draw the middle frame, then divide the intervals in-between the ends closest to the extremes.  
+  
 
-![](../.gitbook/assets/image%20%2899%29.png)
 
+   ![](../.gitbook/assets/image%20%2899%29.png)
 
+  
+  
+
+7. **Arcs** Keep the x-axis constant, with the y-axis a curve to create a realistic motion with the object. 
 
