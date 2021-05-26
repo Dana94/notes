@@ -35,5 +35,7 @@ description: Notes on a YouTube video lesson.
 
 7. **Arcs** Keep the x-axis constant, with the y-axis a curve to create a realistic motion with the object. 
 8. **Secondary Action** Gestures that support the main character to add more dimensions to the character animation. 
-9. **Timing** The personality and nature of an animation is greatly affected by the number of frames inserted between each main action.  More frames gives a slow animation.  Fewer frames gives a fast animation. 
+9. **Timing** The personality and nature of an animation is greatly affected by the number of frames inserted between each main action.  More frames gives a slow animation.  Fewer frames gives a fast animation. 24 frames per second is the standard for movies. Drawing on very other second is common though too and has its benefits. 
+10. **Exaggeration** Make more convincing, not unrealistic actions. Try pushing the exaggeration too much so you know where to stop at. 
+11. **Solid Drawing** Make forms feel like they're in 3D space with volume, weight and balance. 
 
