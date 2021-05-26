@@ -35,4 +35,5 @@ description: Notes on a YouTube video lesson.
 
 7. **Arcs** Keep the x-axis constant, with the y-axis a curve to create a realistic motion with the object. 
 8. **Secondary Action** Gestures that support the main character to add more dimensions to the character animation. 
+9. **Timing** The personality and nature of an animation is greatly affected by the number of frames inserted between each main action.  More frames gives a slow animation.  Fewer frames gives a fast animation. 
 
