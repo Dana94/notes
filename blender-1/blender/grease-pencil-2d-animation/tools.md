@@ -1,3 +1,7 @@
+---
+description: In Grease Pencil Tool
+---
+
 # Tools
 
 **Ctrl + Home** to select the start of the keyframes.
