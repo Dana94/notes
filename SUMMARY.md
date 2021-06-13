@@ -11,7 +11,7 @@
 * [Blender](blender-1/blender/README.md)
   * [Grease Pencil \(2D Animation\)](blender-1/blender/grease-pencil-2d-animation/README.md)
     * [Tools](blender-1/blender/grease-pencil-2d-animation/tools.md)
-    * [Untitled](blender-1/blender/grease-pencil-2d-animation/untitled.md)
+    * [Default 2D Animation](blender-1/blender/grease-pencil-2d-animation/untitled.md)
     * [How To Render](blender-1/blender/grease-pencil-2d-animation/grease-pencil-2d.md)
   * [Random...](blender-1/blender/random....md)
   * [Tricks](blender-1/blender/tricks-1/README.md)
