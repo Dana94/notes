@@ -2,7 +2,7 @@
 
 Best to rename the **object and the data** name the same.
 
-![](../../../.gitbook/assets/image%20%28102%29.png)
+![](../../../.gitbook/assets/image%20%28103%29.png)
 
 Selecting the data bae is where you'll see the layers listed. The layer currently have mask, lock, hide, onion shown in that order for each layer.
 
@@ -12,5 +12,13 @@ Since we're switching form edit, object, and draw often, I checked "Tab for pie 
 
 ![](../../../.gitbook/assets/image%20%28101%29.png)
 
-When roughing out a sketch and you think it looks good, you can jump into the next frame in the same layer to finalize your drawing.
+When roughing out a sketch and you think it looks good, you can jump into the next frame in the same layer to finalize your drawing. Here, I'm going over my rough drawing in frame 2.
+
+![](../../../.gitbook/assets/image%20%28104%29.png)
+
+You may not need to fix the current rough sketch, so you could chose to move onto the lines layer in the same frame that the rough is in \(**so same frame, but different layer**\). Best to lighten the opacity for the rough one in this case. The rough layer's opacity isn't visible here but this is where it's adjusted.
+
+![](../../../.gitbook/assets/image%20%28102%29.png)
+
+
 
