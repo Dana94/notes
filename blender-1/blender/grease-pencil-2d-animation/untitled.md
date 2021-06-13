@@ -12,3 +12,5 @@ Since we're switching form edit, object, and draw often, I checked "Tab for pie 
 
 ![](../../../.gitbook/assets/image%20%28101%29.png)
 
+When roughing out a sketch and you think it looks good, you can jump into the next frame in the same layer to finalize your drawing.
+
