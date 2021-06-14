@@ -48,5 +48,5 @@ Using the fill tool, you could see the boundaries it will fill before even addin
 
 ![](../../../.gitbook/assets/image%20%28105%29.png)
 
-The sculpt brush can push the color into the right spot.
+The sculpt brush can push the color into the right spot. Hit the alt key while using fill tool to create a boundary if the lines don't always create the desired boundaries for you.
 
