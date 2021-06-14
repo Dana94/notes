@@ -20,5 +20,13 @@ You may not need to fix the current rough sketch, so you could chose to move ont
 
 ![](../../../.gitbook/assets/image%20%28102%29.png)
 
+Like for sculpting, **F** is for brush size, **shift + F** is for strength size.
 
+Stabilize settings are under Options.
+
+![](../../../.gitbook/assets/image%20%28105%29.png)
+
+If using the stabilizer, there may be more vertices in your lines than necessary. Use Stroke &gt; Simplify to reduce these points. [Simplify Help](https://docs.blender.org/manual/en/latest/grease_pencil/modes/edit/stroke_menu.html#simplify)
+
+![](../../../.gitbook/assets/image%20%28106%29.png)
 
