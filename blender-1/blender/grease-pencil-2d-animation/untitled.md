@@ -24,9 +24,29 @@ Like for sculpting, **F** is for brush size, **shift + F** is for strength size.
 
 Stabilize settings are under Options.
 
-![](../../../.gitbook/assets/image%20%28105%29.png)
+![](../../../.gitbook/assets/image%20%28108%29.png)
 
 If using the stabilizer, there may be more vertices in your lines than necessary. Use Stroke &gt; Simplify to reduce these points. [Simplify Help](https://docs.blender.org/manual/en/latest/grease_pencil/modes/edit/stroke_menu.html#simplify)
 
+Holding down shift reverses the stabilizer affect when you're drawing.
+
+![](../../../.gitbook/assets/image%20%28109%29.png)
+
+Best to autolock all layers you're not currently on.
+
+![](../../../.gitbook/assets/image%20%28110%29.png)
+
+Delete loose points option.
+
 ![](../../../.gitbook/assets/image%20%28106%29.png)
+
+Each material has a stroke and a fill option.
+
+![](../../../.gitbook/assets/image%20%28107%29.png)
+
+Using the fill tool, you could see the boundaries it will fill before even adding the color in.
+
+![](../../../.gitbook/assets/image%20%28105%29.png)
+
+The sculpt brush can push the color into the right spot.
 
