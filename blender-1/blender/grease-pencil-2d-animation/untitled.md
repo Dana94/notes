@@ -50,3 +50,7 @@ Using the fill tool, you could see the boundaries it will fill before even addin
 
 The sculpt brush can push the color into the right spot. Hit the alt key while using fill tool to create a boundary if the lines don't always create the desired boundaries for you.
 
+
+
+If you are using the fill tool on a object with no complete boundary line, use Alt + LMB with fill enabled and the material has stoke checked. You will see a simple line drawn but it's used to encompass the color when you use fill. When you're done with the boundary, use edit mode &gt; grease pencil &gt; clean up &gt; boundary strokes.
+
