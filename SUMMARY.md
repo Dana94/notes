@@ -67,3 +67,7 @@
   * [Masking](inkscape-1/inkscape/masking.md)
   * [Clipping](inkscape-1/inkscape/clipping.md)
 
+## Krita
+
+* [Magic Wand Tool](krita/magic-wand-tool.md)
+
