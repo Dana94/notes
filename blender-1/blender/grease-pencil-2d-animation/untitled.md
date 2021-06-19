@@ -64,5 +64,9 @@ Use the mask layer option on the layer to clamp the shadows to the object only.
 
 ![](../../../.gitbook/assets/image%20%28112%29.png)
 
+![](../../../.gitbook/assets/image%20%28114%29.png)
+
+You can assign a material in edit mode with stroke &gt; assign material &gt; material in your collection.
+
 ![](../../../.gitbook/assets/image%20%28113%29.png)
 
