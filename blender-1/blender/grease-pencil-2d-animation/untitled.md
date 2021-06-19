@@ -64,7 +64,7 @@ Use the mask layer option on the layer to clamp the shadows to the object only.
 
 ![](../../../.gitbook/assets/image%20%28112%29.png)
 
-![](../../../.gitbook/assets/image%20%28119%29.png)
+![](../../../.gitbook/assets/image%20%28120%29.png)
 
 You can assign a material in edit mode with stroke &gt; assign material &gt; material in your collection.
 
@@ -74,27 +74,27 @@ Adding armature in Object mode shift + A &gt; Armature &gt; Single Bone \(in my 
 
 Name the rig accordingly.
 
-![](../../../.gitbook/assets/image%20%28120%29.png)
+![](../../../.gitbook/assets/image%20%28121%29.png)
 
 Rename the bone too.
 
-![](../../../.gitbook/assets/image%20%28117%29.png)
+![](../../../.gitbook/assets/image%20%28118%29.png)
 
 In edit mode, grab the armature and position it to where the arm is.
 
-![](../../../.gitbook/assets/image%20%28122%29.png)
+![](../../../.gitbook/assets/image%20%28123%29.png)
 
 When the first one is in its spot, hit E on the end to extrude it so another armature connects for the hand.
 
-![](../../../.gitbook/assets/image%20%28116%29.png)
+![](../../../.gitbook/assets/image%20%28117%29.png)
 
 The second one is renamed too.
 
-![](../../../.gitbook/assets/image%20%28118%29.png)
+![](../../../.gitbook/assets/image%20%28119%29.png)
 
 Constrain Melvin to armature with selecting it first then the armature and crtl + p to choose "with empty groups".
 
-![](../../../.gitbook/assets/image%20%28121%29.png)
+![](../../../.gitbook/assets/image%20%28122%29.png)
 
 Now the vertex groups are available under Melvin.
 
@@ -102,9 +102,17 @@ Now the vertex groups are available under Melvin.
 
 In edit mode, choose what points are constrained to arm\_01 and hit assign. Do the same to the points for arm\_02.
 
-![](../../../.gitbook/assets/image%20%28124%29.png)
+![](../../../.gitbook/assets/image%20%28125%29.png)
 
 Check the movement be something the armature in object mode and choosing pose mode. Select the top point and hit r to rotate.
 
-![](../../../.gitbook/assets/image%20%28114%29.png)
+![](../../../.gitbook/assets/image%20%28116%29.png)
+
+For manipulating the armature:
+
+edit mode for adjusting it
+
+pose mode for testing it.
+
+
 
