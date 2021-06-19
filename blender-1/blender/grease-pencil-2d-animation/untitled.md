@@ -60,3 +60,9 @@ If you want a selection of stroked to go behind others in the same layer, you ca
 
 ![](../../../.gitbook/assets/image%20%28105%29.png)
 
+Use the mask layer option on the layer to clamp the shadows to the object only.
+
+![](../../../.gitbook/assets/image%20%28112%29.png)
+
+![](../../../.gitbook/assets/image%20%28113%29.png)
+
