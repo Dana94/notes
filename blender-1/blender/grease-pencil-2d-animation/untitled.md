@@ -114,5 +114,23 @@ edit mode for adjusting it
 
 pose mode for testing it.
 
+----
 
+When it comes to keyframes, you cannot move them if they are locked.
+
+![](../../../.gitbook/assets/image%20%28129%29.png)
+
+Start animating in dope sheet when the bone is selected for pose mode.
+
+![](../../../.gitbook/assets/image%20%28127%29.png)
+
+Change bone display to B-Bone so it looks like 2 rectangles.
+
+![](../../../.gitbook/assets/image%20%28128%29.png)
+
+With the first bone part selected, choose 32 segments, then in edit mode, uncheck connected.
+
+![](../../../.gitbook/assets/image%20%28126%29.png)
+
+Select both bones on pose mode and hit I to insert a rotation key.
 
