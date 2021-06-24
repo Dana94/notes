@@ -132,5 +132,15 @@ With the first bone part selected, choose 32 segments, then in edit mode, unchec
 
 ![](../../../.gitbook/assets/image%20%28126%29.png)
 
-Select both bones on pose mode and hit I to insert a rotation key.
+Select both bones on pose mode and hit I to insert a rotation key. \[couldn't see this option\]
+
+A change in the waving arm was added in a keyframe every 4th sec.
+
+![](../../../.gitbook/assets/image%20%28132%29.png)
+
+To create the bend curve in the arm, change the Curve In Y value to -0.2 and the Curve out y value to -0.2. When the values are added, hit I over each one so they turn yellow. You may need to make sure the key frames before and after are set to 0 so it keeps the midway point.
+
+![](../../../.gitbook/assets/image%20%28131%29.png)
+
+
 
