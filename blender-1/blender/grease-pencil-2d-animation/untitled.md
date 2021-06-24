@@ -142,5 +142,14 @@ To create the bend curve in the arm, change the Curve In Y value to -0.2 and the
 
 ![](../../../.gitbook/assets/image%20%28131%29.png)
 
+Toggle overlays to hide the armature.
 
+![](../../../.gitbook/assets/image%20%28133%29.png)
+
+
+
+Tips:
+
+* If you don't see anything in your dope sheet, highlight the armatures.
+* If the armatures aren't showing toggle overlays OR check the scene collection if they are marked as hidden.
 
