@@ -153,3 +153,19 @@ Tips:
 * If you don't see anything in your dope sheet, highlight the armatures.
 * If the armatures aren't showing toggle overlays OR check the scene collection if they are marked as hidden.
 
+Make sure to turn off auto keying when you're done.
+
+![](../../../.gitbook/assets/image%20%28135%29.png)
+
+
+
+Create a background in object mode using shift + a &gt; grease pencil &gt; blank.
+
+Use the draw tool to create a square around the camera view. Hit enter to confirm.
+
+![](../../../.gitbook/assets/image%20%28136%29.png)
+
+If you see our background but not the object, it's probably because they are in the same place and the background object needs to be moved behind it.
+
+![](../../../.gitbook/assets/image%20%28134%29.png)
+
