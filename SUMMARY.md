@@ -6,10 +6,10 @@
 
 * [12 Principles of Animation](animation/untitled.md)
 
-## Blender <a id="blender-1"></a>
+## Blender <a href="#blender-1" id="blender-1"></a>
 
 * [Blender](blender-1/blender/README.md)
-  * [Grease Pencil \(2D Animation\)](blender-1/blender/grease-pencil-2d-animation/README.md)
+  * [Grease Pencil (2D Animation)](blender-1/blender/grease-pencil-2d-animation/README.md)
     * [Tools](blender-1/blender/grease-pencil-2d-animation/tools.md)
     * [Default 2D Animation](blender-1/blender/grease-pencil-2d-animation/untitled.md)
     * [How To Render](blender-1/blender/grease-pencil-2d-animation/grease-pencil-2d.md)
@@ -53,14 +53,15 @@
     * [Manipulating Normals](blender-1/blender/textures/manipulating-normals.md)
     * [Using Normal Maps](blender-1/blender/textures/using-normal-maps.md)
     * [Displacement and Adaptive Subdivision](blender-1/blender/textures/displacement-and-adaptive-subdivision.md)
-  * [Intro to Physically Based Rendering \(PBR\)](blender-1/blender/intro-to-physically-based-rendering-pbr.md)
+  * [Intro to Physically Based Rendering (PBR)](blender-1/blender/intro-to-physically-based-rendering-pbr.md)
   * [Fresnel](blender-1/blender/fresnel.md)
   * [The Principled Shader](blender-1/blender/the-principled-shader.md)
   * [The Principled Hair Shader](blender-1/blender/the-principled-hair-shader.md)
   * [Modifiers](blender-1/blender/modifiers/README.md)
     * [Array](blender-1/blender/modifiers/array.md)
+  * [Vector Displacement](blender-1/blender/vector-displacement.md)
 
-## Inkscape <a id="inkscape-1"></a>
+## Inkscape <a href="#inkscape-1" id="inkscape-1"></a>
 
 * [Inkscape](inkscape-1/inkscape/README.md)
   * [Layers](inkscape-1/inkscape/layers.md)
@@ -70,4 +71,3 @@
 ## Krita
 
 * [Magic Wand Tool](krita/magic-wand-tool.md)
-
