@@ -23,6 +23,7 @@
     * [Dyntopo](blender-1/blender/sculpting/dyntopo.md)
     * [Draw Brush](blender-1/blender/sculpting/draw-brush.md)
     * [Crease Brush](blender-1/blender/sculpting/crease-brush.md)
+    * [Tips](blender-1/blender/sculpting/tips.md)
   * [Tools](blender-1/blender/tools/README.md)
     * [Poke Tool](blender-1/blender/tools/poke-tool.md)
   * [Texture Painting](blender-1/blender/texture-painting.md)
