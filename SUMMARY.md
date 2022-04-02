@@ -34,6 +34,7 @@
   * [Collections](blender-1/blender/collections.md)
   * [Shortcuts](blender-1/blender/shortcuts.md)
   * [Materials](blender-1/blender/materials/README.md)
+    * [Hair](blender-1/blender/materials/hair.md)
     * [General](blender-1/blender/materials/bsdf.md)
     * [BSDF](blender-1/blender/materials/bsdf-1.md)
     * [Node Editor](blender-1/blender/materials/node-editor.md)
