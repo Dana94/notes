@@ -22,7 +22,9 @@ Color ramp: hue/saturation value. Use color gradient settings to make another co
 
 If you want to keep the same color ramp values for another color, you don't need to duplicate it.
 
+\-------------
+
+Blender 2.8 Hair Tutorial from [this video](https://www.youtube.com/watch?v=Oq0q8AmTnDU).
 
 
-\---> show image examples
 
