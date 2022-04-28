@@ -62,8 +62,9 @@
   * [Modifiers](blender-1/blender/modifiers/README.md)
     * [Array](blender-1/blender/modifiers/array.md)
   * [Vector Displacement](blender-1/blender/vector-displacement.md)
-  * [Lighting](blender-1/blender/lighting/README.md)
+  * [Lighting](blender-1/blender/lighting.md)
     * [Indirect Lighting and Light Bounces](blender-1/blender/lighting/indirect-lighting-and-light-bounces.md)
+    * [Lighting with Realistic Values and Colors](blender-1/blender/lighting/lighting-with-realistic-values-and-colors.md)
 
 ## Inkscape <a href="#inkscape-1" id="inkscape-1"></a>
 
