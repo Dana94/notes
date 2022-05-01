@@ -4,6 +4,6 @@ Use Exposure setting instead of changing wattage of lamps to change power of the
 
 ![](<../../../.gitbook/assets/image (140).png>)
 
-You can change the color temperature for a light to make it more realistic - similar to changing node values to better reflect a material like gold or jeans.
+You can change the color temperature for a light to make it more realistic - similar to changing node values to better reflect a material like gold or jeans. A incandescent bulb would be about 2700 for temperature.
 
 ![](<../../../.gitbook/assets/image (141).png>)
