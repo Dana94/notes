@@ -15,4 +15,4 @@ Within the shader editor, have the material output selected and change the surfa
 
 Then set the gradient texture and color ramp to the other nodes like this:
 
-![](<../../.gitbook/assets/image (138) (1).png>)
+![](<../../.gitbook/assets/image (138) (1) (1).png>)

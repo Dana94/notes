@@ -9,3 +9,7 @@ Get free HDRIs, models, and textures at HDRIHaven.\
 [https://hdrihaven.com/hdris/](https://hdrihaven.com/hdris/)
 
 There needs to be some modifying if yo are introducing other light sources to a scene already using a light source from an HDRI image.
+
+If you want the light source appearing in a certain way, you can change the rotation by changing the vector value t mapping and changing the rotation value for Z.
+
+![](<../../../.gitbook/assets/image (138).png>)
