@@ -13,3 +13,7 @@ There needs to be some modifying if yo are introducing other light sources to a 
 If you want the light source appearing in a certain way, you can change the rotation by changing the vector value t mapping and changing the rotation value for Z.
 
 ![](<../../../.gitbook/assets/image (138).png>)
+
+You can use built-in HDRIs in Blender to test the scene but they're not great for rendering. You can add your own here by clicking the gear icon.
+
+![](<../../../.gitbook/assets/image (143).png>)

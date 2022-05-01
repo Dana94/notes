@@ -18,5 +18,5 @@ You can see the render result after closing the render image window by going to 
 
 You can choose the "use curves" option to brighten the brighter areas and darken the darker areas with a s-curve chape on the graph. As a general rule ,try to keep most of the values on the Luma graph more in the middle. Don't want anything completely white or black.
 
-![](<../../../.gitbook/assets/image (143).png>)
+![](<../../../.gitbook/assets/image (143) (1).png>)
 
