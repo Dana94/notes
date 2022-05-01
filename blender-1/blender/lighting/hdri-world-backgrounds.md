@@ -7,3 +7,5 @@ Change the world color by setting it to an environment texture and upload a HDRI
 
 Get free HDRIs, models, and textures at HDRIHaven.\
 [https://hdrihaven.com/hdris/](https://hdrihaven.com/hdris/)
+
+There needs to be some modifying if yo are introducing other light sources to a scene already using a light source from an HDRI image.
