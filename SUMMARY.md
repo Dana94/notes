@@ -67,6 +67,7 @@
     * [Lighting with Realistic Values and Colors](blender-1/blender/lighting/lighting-with-realistic-values-and-colors.md)
     * [Scopes and Color Management](blender-1/blender/lighting/scopes-and-color-management.md)
     * [HDRI World Backgrounds](blender-1/blender/lighting/hdri-world-backgrounds.md)
+    * [Reducing Noise with Portals](blender-1/blender/lighting/reducing-noise-with-portals.md)
 
 ## Inkscape <a href="#inkscape-1" id="inkscape-1"></a>
 
