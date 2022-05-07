@@ -8,7 +8,7 @@ Then change the render engine to **Cycles** with the feature set as **Experiment
 
 Then there will be an **adaptive subdivision** option to choose which gives you new options in the modifier.
 
-![](<../../.gitbook/assets/image (137) (1) (1).png>)\
+![](<../../.gitbook/assets/image (137) (1) (1) (1).png>)\
 
 
 Within the shader editor, have the material output selected and change the surface displacement option to **Displacement and Bump**.

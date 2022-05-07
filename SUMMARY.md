@@ -68,6 +68,7 @@
     * [Scopes and Color Management](blender-1/blender/lighting/scopes-and-color-management.md)
     * [HDRI World Backgrounds](blender-1/blender/lighting/hdri-world-backgrounds.md)
     * [Reducing Noise with Portals](blender-1/blender/lighting/reducing-noise-with-portals.md)
+    * [Volumetric Lighting](blender-1/blender/lighting/volumetric-lighting.md)
 
 ## Inkscape <a href="#inkscape-1" id="inkscape-1"></a>
 

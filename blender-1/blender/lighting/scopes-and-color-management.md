@@ -12,7 +12,7 @@
 
 When a render image is made, go to view > sidebar to see the histogram under the Scopes tab. When the spikes are tall, it means there are more pixels in that value range. The Luma choice&#x20;
 
-![](<../../../.gitbook/assets/image (137).png>)
+![](<../../../.gitbook/assets/image (137) (1).png>)
 
 You can see the render result after closing the render image window by going to Editor Type > image editor and choosing Render Result from the dropdown. Then it can be shown in a section of the workspace. Click N to get the scopes tab again. You'll find adjusting the exposure under Render  color management will change the graph values.
 
