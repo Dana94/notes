@@ -69,6 +69,7 @@
     * [HDRI World Backgrounds](blender-1/blender/lighting/hdri-world-backgrounds.md)
     * [Reducing Noise with Portals](blender-1/blender/lighting/reducing-noise-with-portals.md)
     * [Volumetric Lighting](blender-1/blender/lighting/volumetric-lighting.md)
+    * [Texturing Lights with IES Data](blender-1/blender/lighting/texturing-lights-with-ies-data.md)
 
 ## Inkscape <a href="#inkscape-1" id="inkscape-1"></a>
 
