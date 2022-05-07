@@ -1,3 +1,9 @@
+---
+description: >-
+  Not a property of the light, it's a property of the space that's around the
+  light.
+---
+
 # Volumetric Lighting
 
 In world view properties > volume > volume scatter with 0.1 density. This is with an HDRI selected already.
