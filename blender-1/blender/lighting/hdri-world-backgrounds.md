@@ -3,7 +3,7 @@
 HDRI - Each individual pixel of the image is its own sunlamp. The brightness of the pixel determines the strength of the lamp. The color of the pixel determines the color of the sunlamp.\
 Change the world color by setting it to an environment texture and upload a HDRI file.
 
-![](<../../../.gitbook/assets/image (141) (1).png>)
+![](<../../../.gitbook/assets/image (141) (1) (1).png>)
 
 Get free HDRIs, models, and textures at HDRIHaven.\
 [https://hdrihaven.com/hdris/](https://hdrihaven.com/hdris/)
@@ -16,4 +16,4 @@ If you want the light source appearing in a certain way, you can change the rota
 
 You can use built-in HDRIs in Blender to test the scene but they're not great for rendering. You can add your own here by clicking the gear icon. Under Lights > HDRIs click install.
 
-![](<../../../.gitbook/assets/image (143) (1).png>)
+![](<../../../.gitbook/assets/image (143) (1) (1).png>)

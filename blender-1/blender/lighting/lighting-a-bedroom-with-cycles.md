@@ -60,11 +60,22 @@ Kelvin values can be found online.
 
 The point lamps can have kelvin values too: 2700. (Following the saturation change, blackbody choice as well like the sun has.)
 
+![](<../../../.gitbook/assets/image (143).png>)
 
+Under shader editor > world with strength set to 200.\
+This was through trial and error and comparing to real-world values.
 
-&#x20;
+Now the light from the sky illuminates the room better. No need for the area light trick anymore.
 
+![](<../../../.gitbook/assets/image (141).png>)
 
+If it looks too overexposed, render > color management decrease exposure to about -2.
+
+You can lower exposure for sunlight to make the room darker or increase exposure for the lamps.
+
+&#x20;![](<../../../.gitbook/assets/image (140).png>)
+
+Yo can hit F11 to have the render window open and choose a new slot before hitting F12 to render the image.
 
 
 
