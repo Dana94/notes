@@ -20,4 +20,4 @@ Ground Albedo determines how much light is reflected back up into the sky.
 
 * **Ambient Occlusion**: lights up everything from inside our scene.
 
-![](<../../.gitbook/assets/image (139) (1).png>)
+![](<../../.gitbook/assets/image (139) (1) (1).png>)

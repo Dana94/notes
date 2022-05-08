@@ -29,7 +29,7 @@ You can change the brightness by changing the amount of light bouncing by increa
 
 Using a cube, cover most of the room and after setting a material, disconnect the surface from it.
 
-![](<../../../.gitbook/assets/image (139).png>)
+![](<../../../.gitbook/assets/image (139) (1).png>)
 
 After, go to volume > volume scatter below it. Set density to 0.1.\
 ![](<../../../.gitbook/assets/image (145).png>)
