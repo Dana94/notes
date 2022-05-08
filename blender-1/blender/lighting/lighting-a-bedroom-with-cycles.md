@@ -26,5 +26,45 @@ Since the sun lamp (and a bit of the sky texture) is the only light source, it d
 * Change the exposure to about 4 will blow up the light and make it more realistic. If the render is too noisy, just up the sampling > viewport to 50.
 * If not changing exposure, increase sun strength to 50 and notice the light bounce around the room.
 
-After choosing on e of those option, you could brighten up the room using the world tab > ambient occlusion and change distance to something smaller than the size of the room like 10 feet. You can change the actor but that leaves everything a bit grey so instead create an area light outside the window. This adds extra light coming in though outside.
+After choosing one of those option, you could brighten up the room using the world tab > ambient occlusion and change distance to something smaller than the size of the room like 10 feet. You can change the actor but that leaves everything a bit grey so instead create an area light outside the window. This adds extra light coming in though outside.
+
+![](<../../../.gitbook/assets/image (146).png>)
+
+Angle the area lamp down so it mimics sun light. Set strength to 250w with a color like the sky (pale blue).
+
+When rendering this you can set the render sampling to 50 which is less detailed but less time to render while testing.
+
+![](<../../../.gitbook/assets/image (147).png>)
+
+Like before, with the sun only lighting the whole scene changing the sun strength or exposure didn't make a difference, they both gave similar results. If there are more light sources int he scene, it does change things.
+
+Let's add lamps with light sources (despite this is a day scene) with each lamp shade containing a point light.
+
+Add the first one with size .13 feet. Add a warm color. With power of 7w.
+
+For the second one, hold down alt + D to create a "linked duplicate" which means whatever values you change for the first lamp point will also affect the second one.
+
+![](<../../../.gitbook/assets/image (145).png>)
+
+Now with more than 1 type of light in the scene, it rally matters on the differences of the types of lights. The sun is not bight enough compared to the lamps. If you change the sun angle value in the settings to 5 or 10 degrees it would make it believable.
+
+Instead, remove this changed angle back to the default and change sun strength to 600. This will make it brighter in comparison to the lamps.
+
+The range of the sun strength can be from 250 to 1100 depending on cloud conditions or type of day.
+
+So this will have more light to bounce around the room. We can hide the area light in the render and viewport now to see the change. The bounce light from the sun will be much more natural.
+
+The sun can be set to a more realistic color with a kelvin value. Change the HSV's S color to 0 (white). Under nodes > use nodes. Under color >  blackbody. Temperature is 5250.
+
+Kelvin values can be found online.
+
+The point lamps can have kelvin values too: 2700. (Following the saturation change, blackbody choice as well like the sun has.)
+
+
+
+&#x20;
+
+
+
+
 
