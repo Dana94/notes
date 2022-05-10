@@ -77,6 +77,30 @@ You can lower exposure for sunlight to make the room darker or increase exposure
 
 Yo can hit F11 to have the render window open and choose a new slot before hitting F12 to render the image. Don't compare images by changing slots because the exposure value will affect the previous slot too. Best to save the image and compare after.
 
+The last way we can light the scene is with an HDRI without a sun in the sky.
+
+Hide the 2 point lights and add an Environment Texture node in the world shader editor plugging it into the background node.
+
+![](<../../../.gitbook/assets/image (144).png>)
+
+Since we don't know how bright this should be, disconnect the background from the output node and with only the sun spot showing adjust the exposure to the value -3.977.
+
+Then, hide the sun and connect the background node to the output again and adjust the strength there until it matches visually as the sun's effect. Since the sun isn't coming into the room, the HDRI needs to be rotated to get a pattern on the bed or wall.
+
+Click on the HDRI node and hit "N" to open the sidebar.
+
+Under texture mapping > rotate Z value should be changed to about -81.5 degrees so the light hits the pillows. Change the view transform value to "False Color" to see the light values from this light exposure. You can look back at the sun's effect by disconnecting the output node again and turning on the sun. To adjust the HDRI strength, change it to 150 for a more similar effect to the sun's.
+
+Go back to "Filmic" and turn on the lamps. Make sure to disablet he sun for the render too.
+
+Change the exposure for the inside with values (0-positive) or the outside (negative values).
+
+We're trying to get a similar effect as the previous image using the sun point.
+
+Choose a new slot after hitting F11 and then F12 to render.
+
+
+
 
 
 
