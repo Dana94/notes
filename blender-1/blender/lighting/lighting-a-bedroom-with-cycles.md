@@ -99,9 +99,11 @@ We're trying to get a similar effect as the previous image using the sun point.
 
 Choose a new slot after hitting F11 and then F12 to render.
 
+A main advantage of using HDRI is that we get more natural colors in the bounce lighting.
 
+A disadvantage that it could be slower to render or more noisy.
 
-
+You could turn on the area light again and turn on "portal" in the light settings to clean up the noise a bit faster.
 
 
 
