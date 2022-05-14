@@ -67,7 +67,7 @@ This was through trial and error and comparing to real-world values.
 
 Now the light from the sky illuminates the room better. No need for the area light trick anymore.
 
-![](<../../../.gitbook/assets/image (141).png>)
+![](<../../../.gitbook/assets/image (141) (1).png>)
 
 If it looks too overexposed, render > color management decrease exposure to about -2.
 
@@ -104,6 +104,14 @@ A main advantage of using HDRI is that we get more natural colors in the bounce 
 A disadvantage that it could be slower to render or more noisy.
 
 You could turn on the area light again and turn on "portal" in the light settings to clean up the noise a bit faster.
+
+\-------------------
+
+For a dark scene, change the HDRI with a dark sky. Rest the Exposure by clicking it and hitting backspace so it resets. Change the background strength in nodes to 1.
+
+![](<../../../.gitbook/assets/image (141).png>)
+
+Disconnect the background node from the world output so the render is completely black.
 
 
 
