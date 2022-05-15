@@ -11,7 +11,7 @@
 
 Click the dot next to the world color to select a texture to use instead. Choose the remove option to return to the default state.
 
-![](<../../.gitbook/assets/image (140) (1) (1).png>)![](<../../.gitbook/assets/image (141) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (140) (1) (1) (1).png>)![](<../../.gitbook/assets/image (141) (1) (1) (1) (1) (1).png>)
 
 The ball can be clicked and dragged to move the sun's point.
 

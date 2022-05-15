@@ -28,7 +28,7 @@ Since the sun lamp (and a bit of the sky texture) is the only light source, it d
 
 After choosing one of those option, you could brighten up the room using the world tab > ambient occlusion and change distance to something smaller than the size of the room like 10 feet. You can change the actor but that leaves everything a bit grey so instead create an area light outside the window. This adds extra light coming in though outside.
 
-![](<../../../.gitbook/assets/image (146).png>)
+![](<../../../.gitbook/assets/image (146) (1).png>)
 
 Angle the area lamp down so it mimics sun light. Set strength to 250w with a color like the sky (pale blue).
 
@@ -44,7 +44,7 @@ Add the first one with size .13 feet. Add a warm color. With power of 7w.
 
 For the second one, hold down alt + D to create a "linked duplicate" which means whatever values you change for the first lamp point will also affect the second one.
 
-![](<../../../.gitbook/assets/image (145).png>)
+![](<../../../.gitbook/assets/image (145) (1).png>)
 
 Now with more than 1 type of light in the scene, it rally matters on the differences of the types of lights. The sun is not bight enough compared to the lamps. If you change the sun angle value in the settings to 5 or 10 degrees it would make it believable.
 
@@ -73,7 +73,7 @@ If it looks too overexposed, render > color management decrease exposure to abou
 
 You can lower exposure for sunlight to make the room darker or increase exposure for the lamps.
 
-&#x20;![](<../../../.gitbook/assets/image (140).png>)
+&#x20;![](<../../../.gitbook/assets/image (140) (1).png>)
 
 Yo can hit F11 to have the render window open and choose a new slot before hitting F12 to render the image. Don't compare images by changing slots because the exposure value will affect the previous slot too. Best to save the image and compare after.
 
@@ -111,7 +111,23 @@ For a dark scene, change the HDRI with a dark sky. Rest the Exposure by clicking
 
 ![](<../../../.gitbook/assets/image (141).png>)
 
-Disconnect the background node from the world output so the render is completely black.
+Disconnect the background node from the world output so the render is completely black. Don't forget to uncheck ambient occlusion from the world view settings.
 
+Now to add a sunlight to the strength of what the moon should be so we can set the HDRI to the correct strength. Copy the sun lamp in the scene with Shift + D and rename it as moon. Change the strength of the mon light in its settings to .001. The scene should still be in darkness. Turn up the exposure to its max (10) to see how the light affects the scene.
 
+![](<../../../.gitbook/assets/image (146).png>)
+
+Then hide the moon, and plug the background node back into the world output. Change the background node strength to .005 (had to play with this to find this as the best value).
+
+Then turn on the lamp lights and move the exposure down to 3. You can also change the rotation of the HDRI again in the node editor.
+
+![](<../../../.gitbook/assets/image (140).png>)
+
+Since there's a noticeably big shaded error above the bed, we may wan to fix that since it's the center of the room. Hit Shift + D on the one of the lamp lights and move it to the middle of the ceiling. If it's too low, it will be reflected in the window which would looks strange. Change the exposure to 2.
+
+Hide all lamps in the room (lamps and bedroom one) and add another point light copy in the hallway. Change power to 15 and temperature to 3500 so it's more of a LED type light.
+
+![](<../../../.gitbook/assets/image (145).png>)
+
+Turn the other 3 light sources on and render it out.
 

@@ -32,7 +32,7 @@ Using a cube, cover most of the room and after setting a material, disconnect th
 ![](<../../../.gitbook/assets/image (139) (1).png>)
 
 After, go to volume > volume scatter below it. Set density to 0.1.\
-![](<../../../.gitbook/assets/image (145) (1).png>)
+![](<../../../.gitbook/assets/image (145) (1) (1).png>)
 
 Since we don't want to see the mesh used as a volume scatter in our viewport, set the object settings to viewport display > display as "wire".\
 ![](<../../../.gitbook/assets/image (142).png>)
