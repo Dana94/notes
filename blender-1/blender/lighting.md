@@ -7,7 +7,7 @@
 * **Spotlight:** like point but contained within a cone.
 * **Area**: emits light from one side of a shape. Emits light only in the direction it's pointing, not behind it.
 * Any object can be a light source with setting its material to emission.
-* **World**: cam color our scene.
+* **World**: can color our scene.
 
 Click the dot next to the world color to select a texture to use instead. Choose the remove option to return to the default state.
 
