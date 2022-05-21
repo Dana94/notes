@@ -75,7 +75,7 @@ You can lower exposure for sunlight to make the room darker or increase exposure
 
 &#x20;![](<../../../.gitbook/assets/image (140) (1).png>)
 
-Yo can hit F11 to have the render window open and choose a new slot before hitting F12 to render the image. Don't compare images by changing slots because the exposure value will affect the previous slot too. Best to save the image and compare after.
+You can hit F11 to have the render window open and choose a new slot before hitting F12 to render the image. Don't compare images by changing slots because the exposure value will affect the previous slot too. Best to save the image and compare after.
 
 The last way we can light the scene is with an HDRI without a sun in the sky.
 
