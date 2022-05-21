@@ -46,7 +46,7 @@ For the second one, hold down alt + D to create a "linked duplicate" which means
 
 ![](<../../../.gitbook/assets/image (145) (1).png>)
 
-Now with more than 1 type of light in the scene, it rally matters on the differences of the types of lights. The sun is not bight enough compared to the lamps. If you change the sun angle value in the settings to 5 or 10 degrees it would make it believable.
+Now with more than 1 type of light in the scene, it rally matters on the differences of the types of lights. The sun is not bright enough compared to the lamps. If you change the sun angle value in the settings to 5 or 10 degrees it would make it believable.
 
 Instead, remove this changed angle back to the default and change sun strength to 600. This will make it brighter in comparison to the lamps.
 
