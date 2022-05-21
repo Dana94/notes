@@ -123,7 +123,7 @@ Then turn on the lamp lights and move the exposure down to 3. You can also chang
 
 ![](<../../../.gitbook/assets/image (140).png>)
 
-Since there's a noticeably big shaded error above the bed, we may wan to fix that since it's the center of the room. Hit Shift + D on the one of the lamp lights and move it to the middle of the ceiling. If it's too low, it will be reflected in the window which would looks strange. Change the exposure to 2.
+Since there's a noticeably big shaded error above the bed, we may want to fix that since it's the center of the room. Hit Shift + D on the one of the lamp lights and move it to the middle of the ceiling. If it's too low, it will be reflected in the window which would looks strange. Change the exposure to 2.
 
 Hide all lamps in the room (lamps and bedroom one) and add another point light copy in the hallway. Change power to 15 and temperature to 3500 so it's more of a LED type light.
 
