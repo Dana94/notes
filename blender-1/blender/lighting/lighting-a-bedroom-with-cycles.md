@@ -36,7 +36,7 @@ When rendering this you can set the render sampling to 50 which is less detailed
 
 ![](<../../../.gitbook/assets/image (147).png>)
 
-Like before, with the sun only lighting the whole scene changing the sun strength or exposure didn't make a difference, they both gave similar results. If there are more light sources int he scene, it does change things.
+Like before, with the sun only lighting the whole scene changing the sun strength or exposure didn't make a difference, they both gave similar results. If there are more light sources in the scene, it does change things.
 
 Let's add lamps with light sources (despite this is a day scene) with each lamp shade containing a point light.
 
