@@ -113,7 +113,7 @@ For a dark scene, change the HDRI with a dark sky. Rest the Exposure by clicking
 
 Disconnect the background node from the world output so the render is completely black. Don't forget to uncheck ambient occlusion from the world view settings.
 
-Now to add a sunlight to the strength of what the moon should be so we can set the HDRI to the correct strength. Copy the sun lamp in the scene with Shift + D and rename it as moon. Change the strength of the mon light in its settings to .001. The scene should still be in darkness. Turn up the exposure to its max (10) to see how the light affects the scene.
+Now to add a sunlight to the strength of what the moon should be so we can set the HDRI to the correct strength. Copy the sun lamp in the scene with Shift + D and rename it as moon. Change the strength of the moon light in its settings to .001. The scene should still be in darkness. Turn up the exposure to its max (10) to see how the light affects the scene.
 
 ![](<../../../.gitbook/assets/image (146).png>)
 
