@@ -2,7 +2,7 @@
 
 **Filmic** gives you a higher dynamic range to work with and adjusts the saturation to behave realistically in bright areas.
 
-![](<../../../.gitbook/assets/image (142) (1).png>)
+![](<../../../.gitbook/assets/image (142) (1) (1).png>)
 
 **Filmic Log** uses some of the same principles as Filmic but matches some of the values like high-end cameras. It seems dull but it's not intended to be the final result. It works with editing.
 
@@ -18,5 +18,5 @@ You can see the render result after closing the render image window by going to 
 
 You can choose the "use curves" option to brighten the brighter areas and darken the darker areas with a s-curve chape on the graph. As a general rule ,try to keep most of the values on the Luma graph more in the middle. Don't want anything completely white or black.
 
-![](<../../../.gitbook/assets/image (143) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (143) (1) (1) (1) (1).png>)
 

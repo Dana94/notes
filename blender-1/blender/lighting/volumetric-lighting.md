@@ -23,7 +23,7 @@ This will create a cool effect of a projector.\
 
 You can change the brightness by changing the amount of light bouncing by increasing the Light Paths > Max Bounces > Volume value. This determines how much light is bounces around in the room. Don't put the value higher than 2 or 3 for a brighter effect. Otherwise, there'd be too much noise in the render.
 
-![](<../../../.gitbook/assets/image (143) (1).png>)
+![](<../../../.gitbook/assets/image (143) (1) (1).png>)
 
 \----------------------------
 
@@ -32,7 +32,7 @@ Using a cube, cover most of the room and after setting a material, disconnect th
 ![](<../../../.gitbook/assets/image (139) (1).png>)
 
 After, go to volume > volume scatter below it. Set density to 0.1.\
-![](<../../../.gitbook/assets/image (145) (1) (1).png>)
+![](<../../../.gitbook/assets/image (145) (1) (1) (1).png>)
 
 Since we don't want to see the mesh used as a volume scatter in our viewport, set the object settings to viewport display > display as "wire".\
-![](<../../../.gitbook/assets/image (142).png>)
+![](<../../../.gitbook/assets/image (142) (1).png>)

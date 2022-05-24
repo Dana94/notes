@@ -44,7 +44,7 @@ Add the first one with size .13 feet. Add a warm color. With power of 7w.
 
 For the second one, hold down alt + D to create a "linked duplicate" which means whatever values you change for the first lamp point will also affect the second one.
 
-![](<../../../.gitbook/assets/image (145) (1).png>)
+![](<../../../.gitbook/assets/image (145) (1) (1).png>)
 
 Now with more than 1 type of light in the scene, it rally matters on the differences of the types of lights. The sun is not bright enough compared to the lamps. If you change the sun angle value in the settings to 5 or 10 degrees it would make it believable.
 
@@ -60,7 +60,7 @@ Kelvin values can be found online.
 
 The point lamps can have kelvin values too: 2700. (Following the saturation change, blackbody choice as well like the sun has.)
 
-![](<../../../.gitbook/assets/image (143).png>)
+![](<../../../.gitbook/assets/image (143) (1).png>)
 
 Under shader editor > world with strength set to 200.\
 This was through trial and error and comparing to real-world values.
@@ -81,7 +81,7 @@ The last way we can light the scene is with an HDRI without a sun in the sky.
 
 Hide the 2 point lights and add an Environment Texture node in the world shader editor plugging it into the background node.
 
-![](<../../../.gitbook/assets/image (144).png>)
+![](<../../../.gitbook/assets/image (144) (1).png>)
 
 Since we don't know how bright this should be, disconnect the background from the output node and with only the sun spot showing adjust the exposure to the value -3.977.
 
@@ -127,7 +127,7 @@ Since there's a noticeably big shaded error above the bed, we may want to fix th
 
 Hide all lamps in the room (lamps and bedroom one) and add another point light copy in the hallway. Change power to 15 and temperature to 3500 so it's more of a LED type light.
 
-![](<../../../.gitbook/assets/image (145).png>)
+![](<../../../.gitbook/assets/image (145) (1).png>)
 
 Turn the other 3 light sources on and render it out.
 
