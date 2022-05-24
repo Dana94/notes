@@ -71,6 +71,7 @@
     * [Volumetric Lighting](blender-1/blender/lighting/volumetric-lighting.md)
     * [Texturing Lights with IES Data](blender-1/blender/lighting/texturing-lights-with-ies-data.md)
     * [Lighting a Bedroom with Cycles](blender-1/blender/lighting/lighting-a-bedroom-with-cycles.md)
+    * [Shadow Terminator in Cycles](blender-1/blender/lighting/shadow-terminator-in-cycles.md)
 
 ## Inkscape <a href="#inkscape-1" id="inkscape-1"></a>
 
