@@ -28,7 +28,7 @@ Since the sun lamp (and a bit of the sky texture) is the only light source, it d
 
 After choosing one of those option, you could brighten up the room using the world tab > ambient occlusion and change distance to something smaller than the size of the room like 10 feet. You can change the factor but that leaves everything a bit grey so instead create an area light outside the window. This adds extra light coming in though outside.
 
-![](<../../../.gitbook/assets/image (146) (1).png>)
+![](<../../../.gitbook/assets/image (146) (1) (1).png>)
 
 Angle the area lamp down so it mimics sun light. Set strength to 250w with a color like the sky (pale blue).
 
@@ -44,7 +44,7 @@ Add the first one with size .13 feet. Add a warm color. With power of 7w.
 
 For the second one, hold down alt + D to create a "linked duplicate" which means whatever values you change for the first lamp point will also affect the second one.
 
-![](<../../../.gitbook/assets/image (145) (1) (1).png>)
+![](<../../../.gitbook/assets/image (145) (1) (1) (1).png>)
 
 Now with more than 1 type of light in the scene, it rally matters on the differences of the types of lights. The sun is not bright enough compared to the lamps. If you change the sun angle value in the settings to 5 or 10 degrees it would make it believable.
 
@@ -60,7 +60,7 @@ Kelvin values can be found online.
 
 The point lamps can have kelvin values too: 2700. (Following the saturation change, blackbody choice as well like the sun has.)
 
-![](<../../../.gitbook/assets/image (143) (1).png>)
+![](<../../../.gitbook/assets/image (143) (1) (1).png>)
 
 Under shader editor > world with strength set to 200.\
 This was through trial and error and comparing to real-world values.
@@ -115,7 +115,7 @@ Disconnect the background node from the world output so the render is completely
 
 Now to add a sunlight to the strength of what the moon should be so we can set the HDRI to the correct strength. Copy the sun lamp in the scene with Shift + D and rename it as moon. Change the strength of the moon light in its settings to .001. The scene should still be in darkness. Turn up the exposure to its max (10) to see how the light affects the scene.
 
-![](<../../../.gitbook/assets/image (146).png>)
+![](<../../../.gitbook/assets/image (146) (1).png>)
 
 Then hide the moon, and plug the background node back into the world output. Change the background node strength to .005 (had to play with this to find this as the best value).
 
@@ -127,7 +127,7 @@ Since there's a noticeably big shaded error above the bed, we may want to fix th
 
 Hide all lamps in the room (lamps and bedroom one) and add another point light copy in the hallway. Change power to 15 and temperature to 3500 so it's more of a LED type light.
 
-![](<../../../.gitbook/assets/image (145) (1).png>)
+![](<../../../.gitbook/assets/image (145) (1) (1).png>)
 
 Turn the other 3 light sources on and render it out.
 

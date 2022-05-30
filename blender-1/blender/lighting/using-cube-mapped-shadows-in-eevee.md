@@ -9,7 +9,7 @@ In cycles, good to have multiple lights with realistic values and set the exposu
 In eevee, with a realistic light point and the world strength set to .01. The light doesn't go very far.
 
 \
-![](<../../../.gitbook/assets/image (145).png>)\
+![](<../../../.gitbook/assets/image (145) (1).png>)\
 
 
 Set the point light to custom distance to fix this. Keep the distance small so less to calculate.\
@@ -23,7 +23,7 @@ To disable "soft shadows" go under render tab > shadows > soft shadows.
 
 Soft shadows can be defined by cube size values. It's created by 360 degree image (or a cube map) from this point in space.
 
-![](<../../../.gitbook/assets/image (143).png>)
+![](<../../../.gitbook/assets/image (143) (1).png>)
 
 Under light settings, shadow > clip start is the distance in which objects will start casting shadows.
 
