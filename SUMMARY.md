@@ -74,6 +74,7 @@
     * [Shadow Terminator in Cycles](blender-1/blender/lighting/shadow-terminator-in-cycles.md)
     * [Using Cube Mapped Shadows In EEVEE](blender-1/blender/lighting/using-cube-mapped-shadows-in-eevee.md)
     * [Using Contact Shadows](blender-1/blender/lighting/using-contact-shadows.md)
+    * [Using Cascade Mapped Shadows](blender-1/blender/lighting/using-cascade-mapped-shadows.md)
 
 ## Inkscape <a href="#inkscape-1" id="inkscape-1"></a>
 
